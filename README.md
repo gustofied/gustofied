@@ -1,4 +1,4 @@
-<img src="https://www.edvardmunch.org/assets/img/paintings/sun.jpg" width="100%">
+<img src="img/sun_banner.jpg" width="100%">
 
 <pre><strong>Adam Sioud (gustofied) /</strong> <a href="https://www.adamsioud.com">Website</a> / <a href="https://x.com/gustofied">X</a> / <a href="https://github.com/gustofied">GitHub</a> / <a href="https://www.linkedin.com/in/adam-sioud">LinkedIn</a> / <a href="mailto:adam.sioud@protonmail.com">adam.sioud@protonmail.com</a></pre>
 
