@@ -2,7 +2,8 @@
 
 <pre><strong>Adam Sioud (gustofied) /</strong> <a href="https://www.adamsioud.com">Website</a> / <a href="https://x.com/gustofied">X</a> / <a href="https://github.com/gustofied">GitHub</a> / <a href="https://www.linkedin.com/in/adam-sioud">LinkedIn</a> / <a href="mailto:adam.sioud@protonmail.com">adam.sioud@protonmail.com</a></pre>
 
-I build systems at the intersection of neural geometry and large language models. My work spans agent frameworks, research infrastructure, and the geometric foundations of intelligence.
+Mainly working on interaction & RL stuff for LLM agents. Currently focused on developing a reseearch tool. My curiosity drives me to explore a variety of subjects deeply, from AI and finance, to art and more. S
+
 
 **Projects**<br><br>
 **[terminal2F](https://github.com/gustofied/terminal2F)** <small>My research platform and an open-source stack for industrial-grade LLM systems. Observe experiments with Rerun. Research, evaluate, and train LLMs, both agents and systems of agents.</small><br><br>
