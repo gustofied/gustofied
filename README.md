@@ -2,7 +2,7 @@
 
 <pre><strong>Adam Sioud (gustofied) /</strong> <a href="https://www.adamsioud.com">Website</a> / <a href="https://x.com/gustofied">X</a> / <a href="https://github.com/gustofied">GitHub</a> / <a href="https://www.linkedin.com/in/adam-sioud">LinkedIn</a> / <a href="mailto:adam.sioud@protonmail.com">adam.sioud@protonmail.com</a></pre>
 
-Mainly working on interaction & RL stuff for LLM agents. Currently focused on developing a reseearch tool. My curiosity drives me to explore a variety of subjects deeply, from AI and finance, to art and more. S
+Mainly working on interaction & RL stuff for LLM agents. Currently focused on developing a reseearch tool. My curiosity drives me to explore a variety of subjects deeply, from AI and finance, to art and more. 
 
 
 **Projects**<br><br>
